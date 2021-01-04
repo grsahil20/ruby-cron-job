@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    chronic (0.10.2)
+    whenever (1.0.0)
+      chronic (>= 0.6.3)
+
+PLATFORMS
+  x86_64-darwin-19
+
+DEPENDENCIES
+  whenever
+
+RUBY VERSION
+   ruby 2.6.5p114
+
+BUNDLED WITH
+   2.2.3
